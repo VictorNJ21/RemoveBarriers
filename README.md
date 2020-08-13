@@ -3,9 +3,12 @@ RemoveBarriers removes all barriers on the map. This is part of an old slice of 
 
 ## Tired Of These Scratching Your Car?
 https://imgur.com/bOvBON0
+https://imgur.com/3nARX53
+https://imgur.com/1KcwLzh
+https://imgur.com/eFYN2eM
 
 ## Demonstration
-https://streamable.com/gcu8yh
+https://streamable.com/izu54a
 
 ## Download & Installation
 
