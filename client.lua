@@ -12,7 +12,7 @@ local gates = {
 	'prop_sec_barrier_ld_02a',
 	'prop_gate_airport_01',
 	'prop_facgate_01',
-	'prop_gate_docks_1d'
+	'prop_gate_docks_ld'
 }
 
 Citizen.CreateThread(function()
