@@ -8,7 +8,7 @@ RemoveBarriers removes all barriers on the map. This is part of an old slice of 
 - https://imgur.com/eFYN2eM
 
 ## Demonstration
-
+https://streamable.com/0w6vs5
 
 ## Download & Installation
 
