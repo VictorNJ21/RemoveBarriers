@@ -8,6 +8,7 @@ I kindly ask you to report any bug/suggestion down below.
 - https://imgur.com/3nARX53
 - https://imgur.com/1KcwLzh
 - https://imgur.com/eFYN2eM
+- https://imgur.com/LPX39mN
 
 ## Demonstration
 https://streamable.com/0w6vs5
