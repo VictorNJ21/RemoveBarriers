@@ -12,6 +12,8 @@ local gates = {
 	'prop_sec_barrier_ld_02a',
 	'prop_gate_airport_01',
 	'prop_facgate_01',
+	'prop_facgate_03_l',
+	'prop_facgate_03_r',
 	'prop_gate_docks_ld'
 }
 
